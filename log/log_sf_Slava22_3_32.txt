@@ -1,0 +1,7 @@
+====================
+sf_Slava22_3_32 Date: Tue Mar 29 2022 11:29:17 GMT+0300
+ getRandomInt: 5
+ getRandomInt: 7
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+====================
